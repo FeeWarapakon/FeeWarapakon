@@ -1,7 +1,5 @@
 ## Hi there 👋
-<div align="center">
-  <string src="Hi there 👋" width="600" height="300"/>
-</div>
+
 
 <div>
   <img src="https://camo.githubusercontent.com/34a110ef06e3aeed9a1de60ce8099b45eedc5580e1f49cc490c1b28c896b264e/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f632f632d6f726967696e616c2e737667" title="C" alt="C" width="40" height="40"/>&nbsp;
@@ -9,6 +7,11 @@
   <img src="https://camo.githubusercontent.com/2d9be2cdbe847aa58cefeb401833777b9330a5d91389066137fc1c84589eabfe/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f6373686172702f6373686172702d6f726967696e616c2e737667" title="C#" alt="C#" width="40" height="40"/>&nbsp;
  
 </div>
+---
+
+### :fire: My Stats :
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=your-github-username&theme=dark&background=000000)](https://git.io/streak-stats)
+
 <!--
 **FeeWarapakon/FeeWarapakon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
