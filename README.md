@@ -1,6 +1,6 @@
 ## Hi there 👋
 <div align="center">
-  <img src="Hi there 👋" width="600" height="300"/>
+  <string src="Hi there 👋" width="600" height="300"/>
 </div>
 
 <div>
