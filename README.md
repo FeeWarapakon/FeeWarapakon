@@ -9,7 +9,7 @@
 - 🚀 Project : 👁️ [Project-FaceRecognition](https://github.com/FeeWarapakon/Project-FaceRecognition)
 - 🔬 Focus : `Computer Vision`, `Face Recognition`, `Algorithms`, `Software Development`
 - 🎬 fav. anime / hobby : ⚔️ `Attack on Titan`, 🧪 `Fullmetal Alchemist`, 🎮 `Gaming`
-- 💬 DM : [FeeWarapakon](https://github.com/FeeWarapakon) · [Email Contact](feenix7248@gmail.com)
+- 💬 DM : [FeeWarapakon](https://github.com/FeeWarapakon)
 
 <br>
 
