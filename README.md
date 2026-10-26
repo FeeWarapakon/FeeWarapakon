@@ -1,7 +1,7 @@
 <div align="center">
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Segoe+UI&weight=600&size=22&pause=1000&color=0E75B6&center=true&vCenter=true&width=520&height=40&lines=CPE+Student+%C2%B7+Dev+%C2%B7+Computer+Vision;Rajamangala+University+of+Technology+Lanna;Systems+Programming+%26+Algorithms" alt="CPE Student · Dev · Computer Vision" />
+  <img src="https://readme-typing-svg.demolab.com?font=Segoe+UI&weight=600&size=22&pause=1000&color=0E75B6&center=true&vCenter=true&width=520&height=40&lines=CPE+Student+%C2%B7+Dev+%C2%B7+Computer;Rajamangala+University+of+Technology+Lanna;Systems+Programming+%26+Algorithms" alt="CPE Student · Dev · Computer Vision" />
 </p>
 
 <p align="center"> 
