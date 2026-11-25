@@ -12,7 +12,7 @@
 
 - 🎓 **RMUTL :** **Rajamangala University of Technology Lanna** (`Computer Engineering`)
 - 💻 **I use daily :** `.cpp` , `.py` , `.cs` , `.c` , `.h` , `.hpp` , `.ipynb` , `.git` , `.json` , `.md`
-- 📚 **Courses :** [ENGCC304](https://github.com/FeeWarapakon/ENGCC304) , [ENGCE117](https://github.com/FeeWarapakon/ENGCE117) , [BASIC-Programming](https://github.com/FeeWarapakon/BASIC-Computer-Programming) , [Basic-C#](https://github.com/FeeWarapakon/BasicProgramingC-Sharp)
+- 📚 **Courses :** [ENGCC304](https://github.com/FeeWarapakon/ENGCC304) , [ENGCE117](https://github.com/FeeWarapakon/ENGCE117) , [BASIC-Programming](https://github.com/FeeWarapakon/BASIC-Computer-Programming) , [Project-Face-Recognition](https://github.com/FeeWarapakon/Project-Face-Recognition)
 - 🚀 **Projects :** 👁️ [Project-FaceRecognition](https://github.com/FeeWarapakon/Project-FaceRecognition) `Face Recognition & Verification`
 - 🎯 **Focus :** `Computer Vision` , `Systems Programming` , `Algorithms` , `Software Architecture`
 - 🎬 **fav. anime / hobby :** ⚔️ `Attack on Titan` , 🧪 `Fullmetal Alchemist` , 🎮 `Gaming`
